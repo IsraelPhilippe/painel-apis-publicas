@@ -102,12 +102,14 @@ php artisan serve
 - No seu navegador, acesse a rota: localhost:8000
 
 - Ao acessar a rota devera aparecer a seguinte tela:
-![[Pasted image 20250502174931.png]]
+![image](https://github.com/user-attachments/assets/06908d3d-9e2f-40f6-9041-010e5b241503)
+
 
 - Clique em 'Register'
+![image](https://github.com/user-attachments/assets/6e19f9aa-2ab4-40ec-96ea-cfac320c1947)
 
 - Preencha os campos e clique novamente em register
-![[Pasted image 20250502175306.png]]
+
 ```
 
 ## 📚 Aprendizados
